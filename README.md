@@ -1,2 +1,2 @@
-# .github
-Default files for the radiocosmology project
+# radiocosmology
+[Default files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for the radiocosmology project
