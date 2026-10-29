@@ -16,7 +16,7 @@ jobs:
         with:
           script: |
             const body = context.payload.pull_request?.body ?? '';
-            const required = ['Description', 'Related issue', 'How was this tested?', 'AI usage disclosure'];
+            const required = ['Description', 'Related issue', 'How was this tested?', 'AI usage'];
             const errors = [];
 
             const clean = s => s.replace(/<!--[\s\S]*?-->/g, '').trim();
